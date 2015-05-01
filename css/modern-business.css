@@ -48,7 +48,6 @@ header.carousel .fill {
   margin-right: 20px;
   margin-bottom: 20px;
   cursor: pointer;
-  box-shadow: rgba(0,0,0,.2) 3px 5px 5px;
 }
 
 .tint:before {
@@ -59,7 +58,7 @@ header.carousel .fill {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0,0,0, 0.7);
+  background: rgba(0,0,0, 0.4);
   transition: all .4s linear;
 }
 
