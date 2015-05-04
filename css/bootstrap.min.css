@@ -178,6 +178,9 @@ td, th {
   background-position:center;
 }
 
+.highlights { font-size: 26px; font-weight:400; color:#000; border: 1px solid #000; width: 80%; padding: 0 8px; height: 100px; margin: 0 auto;}
+
+
 @media print {
 	*, :after, :before {
 		color: #000!important;
@@ -385,6 +388,9 @@ cursor:pointer
 .h6, h6 {
 	font-size: 12px
 }
+
+h4.inline { color: #fff; text-align:center; margin: 40px 0 0 0;text-shadow: rgb(0, 0, 0) 1px 1px 0px;}
+
 p {
 	margin: 0 0 10px
 }
@@ -4831,6 +4837,8 @@ td.visible-print, th.visible-print {
   text-decoration: none;
   margin-bottom: 10px;
 }
+
+.redghst {border: 1px solid #F00; color: #f00;}
 
 .ghost-button:hover,
 .ghost-button:active {
